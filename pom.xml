@@ -13,7 +13,6 @@
 	<properties>
 		<!-- OUR VERSION -->
 		<revision>1.0.0-SNAPSHOT</revision>
-
 		<!-- DEPENDENCIES VERSION -->
 		<jdk.version>20</jdk.version>
 		<cds.services.version>2.7.0</cds.services.version>
